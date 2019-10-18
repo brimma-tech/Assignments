@@ -43,4 +43,4 @@ Requirements:
 2. On hovering over the colored bars, it should display the legend
 
 
-![Gantt chart](Gantt chart.png)
+![Gantt chart](https://raw.githubusercontent.com/brimma-tech/Assignments/master/Gantt%20chart.png)
