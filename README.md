@@ -41,3 +41,6 @@ Requirements:
 
 1. Develop a Gantt chart with the legend like the image.
 2. On hovering over the colored bars, it should display the legend
+
+
+![Gantt chart](Gantt chart.png)
